@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WinnerVic
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me you can email me at cdotwins@outlook.com
 
